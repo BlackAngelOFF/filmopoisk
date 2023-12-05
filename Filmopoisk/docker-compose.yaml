@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+ reactapp:
+  image: react
+  restart: always
+  ports:
+   - 3111:3000
