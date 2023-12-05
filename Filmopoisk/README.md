@@ -9,4 +9,4 @@
 3. Запустить
 - sudo docker compose up
 
-4. Открыть по адресу localhost:3000
+4. Открыть по адресу localhost:3111
